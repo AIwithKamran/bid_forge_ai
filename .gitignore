@@ -53,3 +53,11 @@ logs/
 .coverage
 htmlcov/
 .pytest_cache/
+
+# Node/JS
+node_modules/
+frontend/dist/
+frontend/build/
+
+# Virtual environments
+.venv312/
